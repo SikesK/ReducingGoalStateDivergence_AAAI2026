@@ -8,9 +8,9 @@ We approximate this metric using a maximal and minimal bound, and identify a min
 To illustrate the effectiveness of our method for reducing GSD, this repo provides several standard planning benchmarks on which it has been tested.
 
 ## Required Packages
-Python3 for grounder and parser
-Fast downward - http://www.fast-downward.org/
-VAL - https://github.com/KCL-Planning/VAL
+* Python3 for grounder and parser
+* Fast downward - http://www.fast-downward.org/
+* VAL - https://github.com/KCL-Planning/VAL
 
 ## Scripts to Run Code 
 Look in experiment scripts folder
