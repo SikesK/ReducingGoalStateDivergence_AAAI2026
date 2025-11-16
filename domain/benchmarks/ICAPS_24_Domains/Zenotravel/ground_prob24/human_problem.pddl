@@ -1,0 +1,20 @@
+
+(define (problem FINAL-PROBLEM)
+(:domain FINAL_DOMAIN)
+(:objects )
+(:init 
+(next_fl4_fl5)
+(next_fl5_fl6)
+(next_fl2_fl3)
+(next_fl0_fl1)
+(at_person2_city1)
+(fuel-level_plane1_fl2)
+)
+(:goal (and 
+(at_person1_city1)
+(at_person2_city1)
+(at_plane1_city2)
+(at_person3_city2)
+)
+)
+)

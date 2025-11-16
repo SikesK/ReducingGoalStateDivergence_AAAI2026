@@ -1,0 +1,21 @@
+
+(define (problem FINAL-PROBLEM)
+(:domain FINAL_DOMAIN)
+(:objects )
+(:init 
+(origin_p0_f3)
+(above_f0_f3)
+(not-served_p0)
+(origin_p1_f2)
+(lift-at_f0)
+(above_f0_f1)
+(above_f1_f3)
+(not-served_p1)
+)
+(:goal (and 
+(served_p0)
+(served_p1)
+(lift-at_f0)
+)
+)
+)

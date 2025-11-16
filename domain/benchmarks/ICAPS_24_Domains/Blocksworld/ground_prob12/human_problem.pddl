@@ -1,0 +1,21 @@
+
+(define (problem FINAL-PROBLEM)
+(:domain FINAL_DOMAIN)
+(:objects )
+(:init 
+(clear_a)
+(clear_c)
+(ontable_g)
+(ontable_f)
+(on_a_g)
+)
+(:goal (and 
+(on_f_g)
+(on_a_e)
+(on_g_c)
+(on_b_f)
+(on_e_b)
+(on_c_d)
+)
+)
+)
