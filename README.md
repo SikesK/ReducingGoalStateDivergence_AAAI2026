@@ -3,7 +3,7 @@
 
 We approximate this metric using a maximal and minimal bound, and identify a minimal set of environment modifications that can reduce such mismatches (better aligning the human-robot final goal states). 
 
-![Alt text](https://kelseysikes.com/wp-content/uploads/2025/06/Screenshot-2025-06-29-at-2.41.07 PM.png)
+![Alt text](https://kelseysikes.com/wp-content/uploads/2025/11/greenhouse-fire.png)
 
 To illustrate the effectiveness of our method for reducing GSD, this repo provides several standard planning benchmarks on which it has been tested.
 
